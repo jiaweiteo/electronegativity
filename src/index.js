@@ -38,7 +38,7 @@ if (forCli) {
 ▐█▐▐▐▀▀▪▄█ ▀█▄█▀▀█▐█.▐█▐█▐█▐█▐█.▐█▌▐█▪
 ██▐█▐█▄▄▐█▄▪▐▐█ ▪▐▐█▌▐█▌███▐█▐█▌·▐█▀·.
 ▀▀ █▪▀▀▀·▀▀▀▀ ▀  ▀▀▀▀▀▀. ▀ ▀▀▀▀▀  ▀ •
-      v`+VER+`  https://doyensec.com/
+      v`+VER+`  asdasdasdsadhttps://doyensec.com/
   `);
   console.log("Scan Status:");
 }
